@@ -33,6 +33,22 @@ Client/rpc-client/[Oo]ut/
 Client/rpc-client/[Ll]og/
 Client/rpc-client/[Ll]ogs/
 
+/Server/rpc-server/[Dd]ebug/
+/Server/rpc-server/[Dd]ebugPublic/
+/Server/rpc-server/[Rr]elease/
+/Server/rpc-server/[Rr]eleases/
+/Server/rpc-server/x64/
+/Server/rpc-server/x86/
+/Server/rpc-server/[Ww][Ii][Nn]32/
+/Server/rpc-server/[Aa][Rr][Mm]/
+/Server/rpc-server/[Aa][Rr][Mm]64/
+/Server/rpc-server/bld/
+/Server/rpc-server/[Bb]in/
+/Server/rpc-server/[Oo]bj/
+/Server/rpc-server/[Oo]ut/
+/Server/rpc-server/[Ll]og/
+/Server/rpc-server/[Ll]ogs/
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot

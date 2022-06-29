@@ -17,21 +17,21 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Oo]ut/
-[Ll]og/
-[Ll]ogs/
+Client/rpc-client/[Dd]ebug/
+Client/rpc-client/[Dd]ebugPublic/
+Client/rpc-client/[Rr]elease/
+Client/rpc-client/[Rr]eleases/
+Client/rpc-client/x64/
+Client/rpc-client/x86/
+Client/rpc-client/[Ww][Ii][Nn]32/
+Client/rpc-client/[Aa][Rr][Mm]/
+Client/rpc-client/[Aa][Rr][Mm]64/
+Client/rpc-client/bld/
+Client/rpc-client/[Bb]in/
+Client/rpc-client/[Oo]bj/
+Client/rpc-client/[Oo]ut/
+Client/rpc-client/[Ll]og/
+Client/rpc-client/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
